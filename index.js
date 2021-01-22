@@ -6,5 +6,5 @@ function matturi() {
 if (document.readyState === 'complete'){
     matturi()
 }else{
-    document.addEventListener ('DOMContentLoaded' , augustinematturi)
+    document.addEventListener ('DOMContentLoaded' , matturi)
 }
